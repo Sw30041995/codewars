@@ -1,0 +1,1 @@
+const angle = n => 2 * 90 * (n - 2);
