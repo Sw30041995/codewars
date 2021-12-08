@@ -1,0 +1,1 @@
+const areaLargestSquare = r => r**2 * 2;
